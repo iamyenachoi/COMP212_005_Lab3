@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|e:\\ychoi88\\24w\\comp212_005_(programming3)\\lab3\\301251326(choi)_lab#3\\1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|solutionrelative:1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\mainappviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|solutionrelative:1\\mainappviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|solutionrelative:1\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\models\\fooditemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|solutionrelative:1\\models\\fooditemcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1B4EFB-C483-4423-B66D-DE933897F52B}|1\\1.csproj|solutionrelative:1\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|solutionrelative:2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\loginusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|solutionrelative:2\\loginusercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\loginusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|solutionrelative:2\\loginusercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|solutionrelative:2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|solutionrelative:2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAB6F00-9DB4-4195-880D-FC4C46B2A840}|2\\2.csproj|solutionrelative:2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\Constants.cs",
+              "RelativeDocumentMoniker": "1\\Constants.cs",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\Constants.cs",
+              "RelativeToolTip": "1\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:51:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainAppViewModel.cs",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\MainAppViewModel.cs",
+              "RelativeDocumentMoniker": "1\\MainAppViewModel.cs",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\MainAppViewModel.cs",
+              "RelativeToolTip": "1\\MainAppViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:51:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodItemCounter.cs",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\Models\\FoodItemCounter.cs",
+              "RelativeDocumentMoniker": "1\\Models\\FoodItemCounter.cs",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\Models\\FoodItemCounter.cs",
+              "RelativeToolTip": "1\\Models\\FoodItemCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-27T08:51:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "1\\Models\\FoodItem.cs",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\Models\\FoodItem.cs",
+              "RelativeToolTip": "1\\Models\\FoodItem.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-27T08:51:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "1\\MainWindow.xaml",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\1\\MainWindow.xaml",
+              "RelativeToolTip": "1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T08:51:43.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUserControl.xaml.cs",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\LoginUserControl.xaml.cs",
+              "RelativeDocumentMoniker": "2\\LoginUserControl.xaml.cs",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\LoginUserControl.xaml.cs",
+              "RelativeToolTip": "2\\LoginUserControl.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBcAAAAhAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-27T08:51:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUserControl.xaml",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\LoginUserControl.xaml",
+              "RelativeDocumentMoniker": "2\\LoginUserControl.xaml",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\LoginUserControl.xaml",
+              "RelativeToolTip": "2\\LoginUserControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T08:51:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "2\\App.xaml.cs",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\App.xaml.cs",
+              "RelativeToolTip": "2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-27T08:51:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\App.xaml",
+              "RelativeDocumentMoniker": "2\\App.xaml",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\App.xaml",
+              "RelativeToolTip": "2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T08:51:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "2\\MainWindow.xaml",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\MainWindow.xaml",
+              "RelativeToolTip": "2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T08:51:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "2\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\ychoi88\\24W\\COMP212_005_(Programming3)\\Lab3\\301251326(Choi)_Lab#3\\2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBkAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-27T08:51:43.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
